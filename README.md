@@ -1,10 +1,10 @@
-# Hey, I'm Kennice Gonsalves
+# Hey, I'm Kennice Gonsalves 👩🏻‍💻
 
 An Information Technology student with a strong foundation in programming and software development. Seeking to apply technical skills and creativity in real-world projects. Eager to learn and contribute to innovative solutions.
 
 I am: 
 
-👩‍🎓  A Final Year IT Engineering Student at SFIT  
+🎓  A Final Year IT Engineering Student at SFIT  
 ✨ Passionate about building clean, human-first tech  
 🚀 Exploring Web Dev, AI, and Open Source
 
