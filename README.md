@@ -6,7 +6,7 @@ I am:
 
 🎓  A Final Year IT Engineering Student at SFIT  
 ✨ Passionate about building clean, human-first tech  
-🚀 Exploring Web Dev, AI, and Open Source
+🚀 Exploring Data Analytics, AI, and Web Dev
 
 ---
 
